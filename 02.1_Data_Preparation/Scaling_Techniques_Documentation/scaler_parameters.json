@@ -1,0 +1,24 @@
+{
+  "scaled_columns": [
+    "tenure",
+    "MonthlyCharges",
+    "ContractMonths",
+    "ServiceCount",
+    "MonthlyChargePerService"
+  ],
+  "mean_": {
+    "tenure": 32.36031238906638,
+    "MonthlyCharges": 64.53514376996804,
+    "ContractMonths": 8.317358892438765,
+    "ServiceCount": 1.2818601348952787,
+    "MonthlyChargePerService": 30.0646373210271
+  },
+  "scale_": {
+    "tenure": 24.563923280228824,
+    "MonthlyCharges": 30.25827042181513,
+    "ContractMonths": 10.02028969596743,
+    "ServiceCount": 0.631726298362674,
+    "MonthlyChargePerService": 14.709162532731646
+  },
+  "fit_on": "training set only (5,634 rows) to prevent data leakage"
+}
