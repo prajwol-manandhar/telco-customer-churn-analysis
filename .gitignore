@@ -14,9 +14,6 @@ env/
 Thumbs.db
 
 # Model artifacts (optional — remove these lines if you want to track them)
-*.h5
-*.keras
-*.pkl
 
 # Large data (optional — uncomment if your raw data shouldn't be committed)
 # 02_Data_Engineering/data/raw/*
